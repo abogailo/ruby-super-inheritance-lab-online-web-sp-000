@@ -10,7 +10,7 @@ def raise_hand
   i += 1
     super #loop to call super 10 times
      if i == 10
-       break 
+       break
      end
     end
   end
